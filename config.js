@@ -288,7 +288,7 @@ const STORE_CONFIG = {
   "GOOGLE_SHEETS": {
     "url": "",
     "description": "  جدول الطلبات",
-    "autoUpdate": true
+    "autoUpdate": false
   },
   "AVAILABLE_COLORS": [
     "أبيض",
@@ -502,7 +502,7 @@ const STORE_CONFIG = {
     }
   },
   "POINTS_SYSTEM": {
-    "currentPoints": 996,
+    "currentPoints": 994,
     "remainingDays": 24,
     "lastReset": "2026-02-04T15:20:41.907Z",
     "planType": "gratuit",
@@ -582,7 +582,7 @@ const STORE_CONFIG = {
         "user": "admin"
       }
     ],
-    "lastUpdated": "2026-02-10T17:16:51.366Z"
+    "lastUpdated": "2026-02-10T17:20:59.826Z"
   },
   "PIXEL_CODES": {
     "facebook": {
