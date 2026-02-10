@@ -286,7 +286,7 @@ const STORE_CONFIG = {
     "tiktokUrl": ""
   },
   "GOOGLE_SHEETS": {
-    "url": "https://docs.google.com/spreadsheets/d/1B6um1tNw0Uh4NJvLjF5zUX6palzubXv1UeH5gSIt_Go/edit?gid=774585379#gid=774585379",
+    "url": "",
     "description": "  جدول الطلبات",
     "autoUpdate": true
   },
@@ -502,8 +502,8 @@ const STORE_CONFIG = {
     }
   },
   "POINTS_SYSTEM": {
-    "currentPoints": 998,
-    "remainingDays": 29,
+    "currentPoints": 996,
+    "remainingDays": 24,
     "lastReset": "2026-02-04T15:20:41.907Z",
     "planType": "gratuit",
     "monthlyPoints": 1000,
@@ -582,7 +582,7 @@ const STORE_CONFIG = {
         "user": "admin"
       }
     ],
-    "lastUpdated": "2026-02-05T16:12:50.379Z"
+    "lastUpdated": "2026-02-10T17:16:51.366Z"
   },
   "PIXEL_CODES": {
     "facebook": {
