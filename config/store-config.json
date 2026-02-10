@@ -283,7 +283,7 @@
   "GOOGLE_SHEETS": {
     "url": "",
     "description": "  جدول الطلبات",
-    "autoUpdate": true
+    "autoUpdate": false
   },
   "AVAILABLE_COLORS": [
     "أبيض",
@@ -497,7 +497,7 @@
     }
   },
   "POINTS_SYSTEM": {
-    "currentPoints": 996,
+    "currentPoints": 994,
     "remainingDays": 24,
     "lastReset": "2026-02-04T15:20:41.907Z",
     "planType": "gratuit",
@@ -577,7 +577,7 @@
         "user": "admin"
       }
     ],
-    "lastUpdated": "2026-02-10T17:16:48.694Z"
+    "lastUpdated": "2026-02-10T17:20:56.603Z"
   },
   "PIXEL_CODES": {
     "facebook": {
